@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Frisco Template
-url: "https://brave-submarine.cloudvent.net"
+title: Rocket SOL
+url: "https://www.rocketsol.net"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -10,20 +10,20 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: App marketing template for Jekyll.
+description: Professional validator for the Solana network.
 author:
-  name:
-  email:
+  name: Rocket SOL
+  email: info@rocketsol.net
   twitter: # twitter username without the @ symbol
 social:
-  name: Frisco Template
+  name: GitHub
   links:
-    - https://github.com/CloudCannon/frisco-jekyll-template
+    - https://github.com/rocket-sol
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: America/Los_Angeles
 
 permalink: pretty
 
